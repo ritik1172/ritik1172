@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Dwivedi</h1>
 <h3 align="center">A passionate Web Developer having 5 years of coding experience through academics</h3>
 
-<img align="right" alt="coding" width="400" src="git.gif">
+<img align="right" alt="coding" width="400" src="ggig.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik1172&label=Profile%20views&color=0e75b6&style=flat" alt="ritik1172" /> </p>
 
