@@ -1,4 +1,4 @@
-![logo](https://github.com/ritik1172/ritik1172/blob/main/back.jpg)
+![logo](https://github.com/ritik1172/ritik1172/blob/main/my.jpeg)
 <h1 align="center">Hi 👋, I'm Ritik Dwivedi</h1>
 <h3 align="center">A passionate Web Developer having 5 years of coding experience through academics</h3>
 
